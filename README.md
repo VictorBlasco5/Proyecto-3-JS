@@ -1,5 +1,5 @@
 # Problema de lógica con JavaScript
-Tercer proyecto desarrollado en GeeksHubs Academy en el cual he desarrollado un codigo para encontrar la forma más barata de comprar unas empanadas según unos parámetros determinados.
+Tercer proyecto desarrollado en GeeksHubs Academy en el cual he desarrollado un código para encontrar la forma más barata de comprar unas empanadas según unos parámetros determinados.
 
 ## Tabla de contenido
 - [Tecnologías.](#tecnologías)
